@@ -1,6 +1,6 @@
 <div align="center">
 
-# Junyu Gu (顾俊宇)
+# Junyu Gu
 
 **Ph.D. Candidate** · University of Chinese Academy of Sciences
 
