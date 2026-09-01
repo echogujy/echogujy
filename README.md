@@ -37,39 +37,24 @@ My research focuses on making large-scale AI workloads run faster and scale furt
 
 ## 📝 Publications
 
-<sup>\* indicates equal contribution · My name is shown in **bold**</sup>
-
-### First-Author
-
 **PillarSparse: Rethinking Unstructured Sparse Formats for Tensor Cores**
 <br>**Junyu Gu**, Jue Wang, Zhikuang Xin, Zhiqiang Liang, Zongguo Wang, Hongyu Gao, Peng Di, Yangang Wang
 <br>*Design Automation Conference (DAC), 2026* · **CCF-A**
-<br>[![Paper](https://img.shields.io/badge/Paper-Forthcoming-9E9E9E?style=flat-square)](https://www.dac.com/)
+
 [![Code](https://img.shields.io/badge/Code-echogujy%2FPillarSparse-181717?style=flat-square&logo=github)](https://github.com/echogujy/PillarSparse)
 
 **DistSpMM: Accelerating Sparse Matrix-Dense Matrix Multiplication on GPUs**
 <br>**Junyu Gu**, Jue Wang, Zhikuang Xin, Chunbao Zhou, Zhiqiang Liang, Yuchen Pang, Rongqiang Cao, Zongguo Wang, Fang Liu, Jing Wang, Yangang Wang
 <br>*ACM Transactions on Architecture and Code Optimization (TACO)* · **CCF-A**
 <br>[![Paper](https://img.shields.io/badge/Paper-ACM%20DL-1B5E20?style=flat-square)](https://dl.acm.org/doi/abs/10.1145/3841478)
-[![DOI](https://img.shields.io/badge/DOI-10.1145%2F3841478-informational?style=flat-square)](https://doi.org/10.1145/3841478)
 [![Code](https://img.shields.io/badge/Code-echogujy%2FDistSpMM-181717?style=flat-square&logo=github)](https://github.com/echogujy/DistSpMM)
 
 **ParGNN: A Scalable Graph Neural Network Training Framework on Multi-GPUs**
 <br>**Junyu Gu**, Shunde Li, Rongqiang Cao, Jue Wang, Zijian Wang, Zhiqiang Liang, Fang Liu, Shigang Li, Chunbao Zhou, Yangang Wang, Xuebin Chi
 <br>*Design Automation Conference (DAC), 2025* · **CCF-A**
 <br>[![Paper](https://img.shields.io/badge/Paper-ACM%20DL-1B5E20?style=flat-square)](https://dl.acm.org/doi/abs/10.1109/DAC63849.2025.11133102)
-[![DOI](https://img.shields.io/badge/DOI-10.1109%2FDAC63849.2025.11133102-informational?style=flat-square)](https://doi.org/10.1109/DAC63849.2025.11133102)
 [![Code](https://img.shields.io/badge/Code-AI4SClab%2FParGNN-181717?style=flat-square&logo=github)](https://github.com/AI4SClab/ParGNN)
 
-### Under Review
-
-**BiShard: Straggler-Free Long-Context MoE Training via Bi-Operand Co-Sharding**
-<br>**Junyu Gu**, Jue Wang, Hongyu Gao, Zhiqiang Liang, Chunbao Zhou, Xu Lu, Yangang Wang
-<br>[![Status](https://img.shields.io/badge/Status-Under%20Review-orange?style=flat-square)]()
-
-**Hybrid-SpMM: Accelerating Sparse Matrix-Matrix Multiplication with Heterogeneous GPU Cores**
-<br>**Junyu Gu**, Jue Wang, Hongyu Gao, Haoyu Wang, Wanpeng Chen, ZhiQiang Liang, San Li, Zhihan Yang, Ningming Nie, Chunbao Zhou, Yangang Wang
-<br>[![Status](https://img.shields.io/badge/Status-Under%20Review-orange?style=flat-square)]()
 
 ### Co-authored
 
@@ -77,24 +62,21 @@ My research focuses on making large-scale AI workloads run faster and scale furt
 <br>Zhiqiang Liang, Hongyu Gao, Jue Wang, Fang Liu, Xingguo Shi, **Junyu Gu**, Peng Di, Sian Li, Lei Tang, Chunbao Zhou, Lian Zhao, Yangang Wang, Xuebin Chi
 <br>*PPoPP, 2026* · **CCF-A**
 <br>[![Paper](https://img.shields.io/badge/Paper-ACM%20DL-1B5E20?style=flat-square)](https://dl.acm.org/doi/10.1145/3774934.3786460)
-[![DOI](https://img.shields.io/badge/DOI-10.1145%2F3774934.3786460-informational?style=flat-square)](https://doi.org/10.1145/3774934.3786460)
 
 **ParGNN: Efficient Training for Large-Scale Graph Neural Network on GPU Clusters** *(Poster)*
 <br>Shunde Li, **Junyu Gu**, Jue Wang, Tiechui Yao, Zhiqiang Liang, Yumeng Shi, Shigang Li, Weiting Xi, Shushen Li, Chunbao Zhou, Yangang Wang, Xuebin Chi
 <br>*PPoPP, 2024* · **CCF-A**
-<br>[![Poster](https://img.shields.io/badge/Poster-PPoPP%2024-1B5E20?style=flat-square)](https://ppopp24.sigplan.org/)
+<br>[![Poster](https://img.shields.io/badge/Poster-PPoPP%2024-1B5E20?style=flat-square)](https://dl.acm.org/doi/abs/10.1145/3627535.3638488)
 
 **A Sparse Matrix Optimization Method for Graph Neural Networks Training**
 <br>Tiechui Yao, Jue Wang, **Junyu Gu**, Yumeng Shi, Fang Liu, Xiaoguang Wang, Yangang Wang, Xuebin Chi
 <br>*KSEM, 2023* · CCF-C
 <br>[![Paper](https://img.shields.io/badge/Paper-Springer-1B5E20?style=flat-square)](https://link.springer.com/chapter/10.1007/978-3-031-40283-8_11)
-[![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--3--031--40283--8__11-informational?style=flat-square)](https://doi.org/10.1007/978-3-031-40283-8_11)
 
 **A Graph Partitioning Algorithm Based on Graph Structure and Label Propagation for Citation Network Prediction**
 <br>Weiting Xi, Hui He, **Junyu Gu**, Jue Wang, Tiechui Yao, Zhiqiang Liang
 <br>*KSEM, 2023* · CCF-C
 <br>[![Paper](https://img.shields.io/badge/Paper-Springer-1B5E20?style=flat-square)](https://link.springer.com/chapter/10.1007/978-3-031-40286-9_24)
-[![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--3--031--40286--9__24-informational?style=flat-square)](https://doi.org/10.1007/978-3-031-40286-9_24)
 
 ## 🛠️ Tech Stack
 
@@ -102,9 +84,9 @@ My research focuses on making large-scale AI workloads run faster and scale furt
   <img src="https://skillicons.dev/icons?i=cuda,cpp,python,c,linux,docker,git,pytorch" alt="tech stack" />
 </p>
 
-**Languages** — C / C++ · Python · CUDA · PTX · Shell
+**Languages** — C / C++ · Python · CUDA · PTX 
 **GPU & Parallel** — CUDA · NCCL · Tensor Cores · TMA · Warp Specialization · OpenMP · MPI
-**Frameworks** — PyTorch · DGL · Triton · Megatron-LM / DeepSpeed
+**Frameworks** — PyTorch · DGL · Triton · Megatron-LM
 **Tools** — Nsight Compute / Nsight Systems · Perf · CMake · Git · Linux
 
 ## 📫 Get in Touch
