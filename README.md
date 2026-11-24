@@ -40,7 +40,7 @@ My research focuses on making large-scale AI workloads run faster and scale furt
 **PillarSparse: Rethinking Unstructured Sparse Formats for Tensor Cores**
 <br>**Junyu Gu**, Jue Wang, Zhikuang Xin, Zhiqiang Liang, Zongguo Wang, Hongyu Gao, Peng Di, Yangang Wang
 <br>*Design Automation Conference (DAC), 2026* · **CCF-A**
-
+<br>[![Paper](https://img.shields.io/badge/Paper-ACM%20DL-1B5E20?style=flat-square)](https://dl.acm.org/doi/10.1145/3770743.3804342)
 [![Code](https://img.shields.io/badge/Code-echogujy%2FPillarSparse-181717?style=flat-square&logo=github)](https://github.com/echogujy/PillarSparse)
 
 **DistSpMM: Accelerating Sparse Matrix-Dense Matrix Multiplication on GPUs**
